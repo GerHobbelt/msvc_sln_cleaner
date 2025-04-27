@@ -13,3 +13,7 @@ All this **stopped working** in MSVC2022 v17.13.6 and thus a lot of build/prepro
 
 This utility is a fast(-ish) patch to the toolset to ensure we produce `.sln` files which are accepted by the latest MSVC2022 IDE.
 
+## Who's affected?
+
+At least me, myself & I, when running the tooling (bash) shell scripts at, for example, https://github.com/search?q=repo%3AGerHobbelt%2Fmupdf+%2Fplatform%5C%2Fwin32%5C%2F.*%5B.%5Dsh%2F&type=code
+
